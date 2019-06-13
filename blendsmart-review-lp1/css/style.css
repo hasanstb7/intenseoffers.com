@@ -37,17 +37,16 @@ a:hover {
 }
 
 .btn {
-  display: block;
-  width: 100%;
-  font-size: 25px;
-  text-align: center;
-  line-height: 35px;
-  color: #fff;
-  padding: 14px 21px;
-  border-radius: 0.25rem;
-  background: #30a700;
-  box-shadow: 0px 3px 0 #2f820e;
-  text-shadow: 0 1px 1px #1d252f;
+    display: block;
+    width: 100%;
+    font-size: 25px;
+    text-align: center;
+    line-height: 35px;
+    color: #fff;
+    padding: 14px 21px;
+    border-radius: 0.25rem;
+    background: #4abb48;
+    border-bottom: 3px solid #129f05;
 }
 
 .btnred {
