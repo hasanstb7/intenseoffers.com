@@ -176,13 +176,14 @@ color: #fff;
 
 .breadcrumbs__link {
   font-weight: normal;
-  font-size: 13px;
+  font-size: 14px;
   color: #fff;
 }
 
 .breadcrumbs__link:focus,
 .breadcrumbs__link:hover {
-  opacity: .7;
+  opacity: .9;
+  color: #ddd;
 }
 
 .main__container {
