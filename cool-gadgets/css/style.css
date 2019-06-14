@@ -532,7 +532,7 @@ float: left;
 }
 
 .sidebar__item {
-  max-width: 295px;
+  width: 295px;
   padding: 13px;
   border: 1px solid #d8d7d7;
   background: #fff;
@@ -621,15 +621,22 @@ float: left;
   font-size: 23px;
   line-height: 35px;
   margin-bottom: 10px;
+  text-align: center;
 }
+
 
 .sidebar__caption {
   font-size: 19px;
   line-height: 24px;
+  text-align: center;
+}
+
+.quick_links p{
+  font-size: 16px;
 }
 
 .sidebar .link {
-  display: block;
+  
 }
 
 .sidebar .right {
